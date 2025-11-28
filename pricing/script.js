@@ -1,1 +1,3 @@
-console.log("Pricing cargado correctamente.");
+function seleccionar(plan) {
+    alert("Has seleccionado el plan: " + plan);
+}
